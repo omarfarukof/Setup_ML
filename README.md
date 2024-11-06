@@ -8,7 +8,7 @@ This is a python script to create Machine Learning Projects (Template).
 
 ## Setup
 - Download the repository
-- add `setup- ml.py` to the `PATH`
+- add `setup_ml.py` to the `PATH`
 
 ## Uses
 
